@@ -13,22 +13,22 @@ https://www.figma.com/file/iDa5NjkuiELD27IDhP9oVS/Untitled?node-id=0%3A1
 https://www.figma.com/file/zlres0sIjuRi5bmjloLswu/Publico-Objetivo
 
 # Diseño UX
-Usuario:
+Usuario:<br>
 *Crear cuenta usuario<br>
-*Inicio de sesión
-*Consultar demanda
-*Realizar demanda
-*Proceder al pago
-*Realizar consultas
+*Inicio de sesión<br>
+*Consultar demanda<br>
+*Realizar demanda<br>
+*Proceder al pago<br>
+*Realizar consultas<br>
 
-Administrador
+Administrador<br>
 
-*Iniciar sesión
-*Consultar demandas
-*Actualizar demandas
-*Consultar pagos
-*Informar pagos
-*Tranferir dinero
+*Iniciar sesión<br>
+*Consultar demandas<br>
+*Actualizar demandas<br>
+*Consultar pagos<br>
+*Informar pagos<br>
+*Tranferir dinero<br>
 
 
 # Diseño UI
