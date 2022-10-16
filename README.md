@@ -14,7 +14,7 @@ https://www.figma.com/file/zlres0sIjuRi5bmjloLswu/Publico-Objetivo
 
 # Diseño UX
 Usuario:
-*Crear cuenta usuario
+*Crear cuenta usuario<br>
 *Inicio de sesión
 *Consultar demanda
 *Realizar demanda
